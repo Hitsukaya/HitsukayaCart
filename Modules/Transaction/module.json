@@ -1,0 +1,6 @@
+{
+    "name": "Transaction",
+    "alias": "transaction",
+    "description": "The HitsukayaCart Transaction Module.",
+    "priority": 100
+}
