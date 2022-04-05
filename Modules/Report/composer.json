@@ -1,0 +1,27 @@
+{
+    "name": "HitsukayaCart/report",
+    "description": "The HitsukayaCart Report Module.",
+    "authors": [
+        {
+            "name": "Hitsukaya Valentaizar",
+            "email": "valentaizarstone@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Report\\": ""
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev"
+}
