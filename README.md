@@ -7,7 +7,7 @@
 ###### Tiktok:@Hitsukaya
 ###### More Updates & upgrades
 
-Some basic Git commands are:
+Git commands & composer are:
 ```
 ###### GitHub CLI
 - gh repo clone Hitsukaya/HitsukayaCart
@@ -17,7 +17,6 @@ Some basic Git commands are:
 - https://github.com/Hitsukaya/HitsukayaCart.git
 
 ###### Git Clone
-git status  https://github.com/Hitsukaya/HitsukayaCart.git
 git clone   https://github.com/Hitsukaya/HitsukayaCart.git
 
 ###### Install 
