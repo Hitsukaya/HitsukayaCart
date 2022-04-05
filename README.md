@@ -1,15 +1,33 @@
 # HitsukayaCart
-###### HitsukayaCart - Laravel - VueJS - PHP - Mysql - JavaScript - Bootstrap - NodeJS - PWA - Progressive Web Apps
+###### HitsukayaCart - Laravel 8.x - VueJS - PHP - Mysql - JavaScript - Bootstrap - NodeJS - PWA - Progressive Web Apps
+###### PHP - Version 7.3.0 - coming soon update to PHP - Version 7.3.0 | 8.0 "php": ">=7.3.0|8.0",
 ###### Website: https://hitsukaya.com/
 ###### Email: offiece@hitsukaya.com / contact@hitsukaya.com/ valentaizarstone@gmail.com
 ###### FaceBook:Hitsukaya.Valentaizar
 ###### Tiktok:@Hitsukaya
+###### More Updates & upgrades
 
 Some basic Git commands are:
 ```
-git status
-git add
-git commit
+###### GitHub CLI
+- gh repo clone Hitsukaya/HitsukayaCart
+###### SSH
+- git@github.com:Hitsukaya/HitsukayaCart.git
+###### HTTPS 
+- https://github.com/Hitsukaya/HitsukayaCart.git
+
+###### Git Clone
+git status  https://github.com/Hitsukaya/HitsukayaCart.git
+git clone   https://github.com/Hitsukaya/HitsukayaCart.git
+
+###### Install 
+
+- composer update
+- composer dumbautoload
+- composer upgrade
+
+###### !!! Install public_html or subdomains not subfolder  
+###### !!! localhost/HitsukayaCart/install/pre-installation 
 ```
 
 ###### ======================================
