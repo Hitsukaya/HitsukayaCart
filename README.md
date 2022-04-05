@@ -1,9 +1,9 @@
 #HitsukayaCart
-HitsukayaCart - Laravel - VueJS - PHP - Mysql - JavaScript - Bootstrap - NodeJS - PWA - Progressive Web Apps
-Website: https://hitsukaya.com/
-Email: offiece@hitsukaya.com / contact@hitsukaya.com/ valentaizarstone@gmail.com
-FaceBook:Hitsukaya.Valentaizar
-Tiktok:@Hitsukaya
+HitsukayaCart <br \>Laravel - VueJS - PHP - Mysql - JavaScript - Bootstrap - NodeJS - PWA - Progressive Web Apps<br \>
+Website: https://hitsukaya.com/<br \>
+Email: offiece@hitsukaya.com / contact@hitsukaya.com/ valentaizarstone@gmail.com<Br \>
+FaceBook:Hitsukaya.Valentaizar<br \>
+Tiktok:@Hitsukaya<br \>
 ======================================
 - FUNCTIONALITIES ECOMMERCE
 - Functionalities base & extra
